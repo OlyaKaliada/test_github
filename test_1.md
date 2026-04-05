@@ -1,4 +1,4 @@
 Choose correct answer:
-- [ ] Option 1
+- [x] Option 1
 - [ ] Option 2
 - [ ] Option 3
